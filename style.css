@@ -1,0 +1,54 @@
+#header{
+    text-align: center;
+}
+#header:after{
+    margin-top: 5px;
+    content:'';
+    display:block;
+    border: 2px solid black;
+}
+#title{
+    font-size: 60px;
+    padding: 0;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+#title-caption{
+    padding: 0;
+    margin-top: 0;
+}
+
+#page-body{
+    width: 75%;
+}
+
+#clicker-and-counter{
+    margin-top: 5%;
+    text-align: center;
+    width: 70%;
+    float: left;
+    margin-right: 0;
+    padding-right: 0;
+
+}
+
+#stats{
+    width: 30%;
+    float: right;
+    padding: 0;
+    margin-top: 20%;
+}
+
+#incrementer{
+    padding: 20px 25px;
+    background: transparent;
+    font-size: 18pt;
+    border: 1px solid black;
+    color: black;
+    outline: 0;
+    width: 250px;
+}
+
+
+
+
